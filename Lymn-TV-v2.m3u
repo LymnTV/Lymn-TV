@@ -1,0 +1,229 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/Adelaide/epg.xml.gz"
+#EXTINF:-1 channel-id="mjh-seven-ade" tvg-id="mjh-seven-ade" tvg-name="Seven" tvg-logo="https://i.mjh.nz/.images/auto-seven-ade-9608a4.png" tvg-chno="71" group-title="Adelaide FTA",Seven
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/seven-ade.m3u8
+#EXTINF:-1 channel-id="mjh-7two-ade" tvg-id="mjh-7two-ade" tvg-name="7two" tvg-logo="https://i.mjh.nz/.images/auto-7two-ade-701123.png" tvg-chno="72" group-title="Adelaide FTA",7two
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/7two-ade.m3u8
+#EXTINF:-1 channel-id="mjh-7mate-ade" tvg-id="mjh-7mate-ade" tvg-name="7mate" tvg-logo="https://i.mjh.nz/.images/auto-7mate-ade-360d60.png" tvg-chno="74" group-title="Adelaide FTA",7mate
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/7mate-ade.m3u8
+#EXTINF:-1 channel-id="mjh-7flix-ade" tvg-id="mjh-7flix-ade" tvg-name="7flix" tvg-logo="https://i.mjh.nz/.images/auto-7flix-ade-c6badc.png" tvg-chno="76" group-title="Adelaide FTA",7flix
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/7flix-ade.m3u8
+#EXTINF:-1 channel-id="mjh-channel-9-sa" tvg-id="mjh-channel-9-sa" tvg-name="Channel 9" tvg-chno="91" group-title="Adelaide FTA",Channel 9
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/channel-9-sa.m3u8
+#EXTINF:-1 channel-id="mjh-gem-sa" tvg-id="mjh-gem-sa" tvg-name="9Gem" tvg-chno="92" group-title="Adelaide FTA",9Gem
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/gem-sa.m3u8
+#EXTINF:-1 channel-id="mjh-go-sa" tvg-id="mjh-go-sa" tvg-name="9Go!" tvg-chno="93" group-title="Adelaide FTA",9Go!
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/go-sa.m3u8
+#EXTINF:-1 channel-id="mjh-life-sa" tvg-id="mjh-life-sa" tvg-name="9Life" tvg-chno="94" group-title="Adelaide FTA",9Life
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/life-sa.m3u8
+#EXTINF:-1 channel-id="mjh-rush-sa" tvg-id="mjh-rush-sa" tvg-name="9Rush" tvg-chno="96" group-title="Adelaide FTA",9Rush
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/rush-sa.m3u8
+#EXTINF:-1 channel-id="mjh-abc-sa" tvg-id="mjh-abc-sa" tvg-name="ABC TV" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="21" group-title="Adelaide FTA",ABC TV
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://c.mjh.nz/abc-sa.m3u8
+#EXTINF:-1 channel-id="mjh-10-sa" tvg-id="mjh-10-sa" tvg-name="10" tvg-chno="10" group-title="Adelaide FTA",10
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-sa.m3u8
+#EXTINF:-1 channel-id="mjh-10bold-sa" tvg-id="mjh-10bold-sa" tvg-name="10 Drama" tvg-chno="12" group-title="Adelaide FTA",10 Drama
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10bold-sa.m3u8
+#EXTINF:-1 channel-id="mjh-10peach-sa" tvg-id="mjh-10peach-sa" tvg-name="10 Comedy" tvg-chno="11" group-title="Adelaide FTA",10 Comedy
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10peach-sa.m3u8
+#EXTINF:-1 channel-id="mjh-10shake-sa" tvg-id="mjh-10shake-sa" tvg-name="Nickelodeon" tvg-chno="13" group-title="Adelaide FTA",Nickelodeon
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10shake-sa.m3u8
+#EXTINF:-1 channel-id="mjh-c44" tvg-id="mjh-c44" tvg-name="Channel 44" tvg-logo="https://i.mjh.nz/.images/c44.png" tvg-chno="44" group-title="Adelaide FTA",Channel 44
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/c44.m3u8
+#EXTINF:-1 channel-id="mjh-sbs-sbst" tvg-id="mjh-sbs-sbst" tvg-name="SBS" tvg-chno="30" group-title="Adelaide FTA",SBS
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sbs-sbst.m3u8
+#EXTINF:-1 channel-id="mjh-sbs-2syd" tvg-id="mjh-sbs-2syd" tvg-name="SBS2" tvg-chno="31" group-title="Adelaide FTA",SBS2
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sbs-2syd.m3u8
+#EXTINF:-1 channel-id="mjh-sbs-3syd" tvg-id="mjh-sbs-3syd" tvg-name="SBS Food" tvg-chno="33" group-title="Adelaide FTA",SBS Food
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sbs-3syd.m3u8
+#EXTINF:-1 channel-id="mjh-sbs-5nsw" tvg-id="mjh-sbs-5nsw" tvg-name="NITV" tvg-chno="34" group-title="Adelaide FTA",NITV
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sbs-5nsw.m3u8
+#EXTINF:-1 channel-id="mjh-sbs-4syd" tvg-id="mjh-sbs-4syd" tvg-name="SBS World Movies" tvg-chno="32" group-title="Adelaide FTA",SBS World Movies
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sbs-4syd.m3u8
+#EXTINF:-1 channel-id="mjh-bbc-top-gear-247-fast" tvg-id="mjh-bbc-top-gear-247-fast" tvg-name="BBC Top Gear" group-title="Motoring & Machines",BBC Top Gear
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/bbc-top-gear-247-fast.m3u8
+#EXTINF:-1 channel-id="mjh-outbacktruckers-fast" tvg-id="mjh-outbacktruckers-fast" tvg-name="Outback Truckers" tvg-logo="https://i.mjh.nz/.images/auto-outbacktruckers-fast-332b21.png" group-title="Motoring & Machines",Outback Truckers
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/outbacktruckers-fast.m3u8
+#EXTINF:-1 channel-id="mjh-truckinghell-fast" tvg-id="mjh-truckinghell-fast" tvg-name="Trucking Hell" tvg-logo="https://i.mjh.nz/.images/auto-truckinghell-fast-6b08c1.png" group-title="Motoring & Machines",Trucking Hell
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/truckinghell-fast.m3u8
+#EXTINF:-1 channel-id="mjh-mightymachines-fast" tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="Motoring & Machines",Mighty Machines
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/mightymachines-fast.m3u8
+#EXTINF:-1 channel-id="mjh-10-highwaythruhell" tvg-id="mjh-10-highwaythruhell" tvg-name="Highway Thru Hell" group-title="Motoring & Machines",Highway Thru Hell
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-highwaythruhell.m3u8
+#EXTINF:-1 channel-id="mjh-racing-fast" tvg-id="mjh-racing-fast" tvg-name="Racing.com" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" tvg-chno="78" group-title="Motoring & Machines",Racing.com
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/racing-fast.m3u8
+#EXTINF:-1 channel-id="mjh-9crime-fast" tvg-id="mjh-9crime-fast" tvg-name="9Crime" group-title="Crime & Investigation",9Crime
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/9crime-fast.m3u8
+#EXTINF:-1 channel-id="mjh-truecrimefiles-fast" tvg-id="mjh-truecrimefiles-fast" tvg-name="True Crime Files" tvg-logo="https://i.mjh.nz/.images/auto-truecrimefiles-fast-26e3bf.png" group-title="Crime & Investigation",True Crime Files
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/truecrimefiles-fast.m3u8
+#EXTINF:-1 channel-id="mjh-onthecase-fast" tvg-id="mjh-onthecase-fast" tvg-name="On The Case" tvg-logo="https://i.mjh.nz/.images/auto-onthecase-fast-6ec172.png" group-title="Crime & Investigation",On The Case
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/onthecase-fast.m3u8
+#EXTINF:-1 channel-id="mjh-surveillancecentral-fast" tvg-id="mjh-surveillancecentral-fast" tvg-name="Surveillance Central" tvg-logo="https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png" group-title="Crime & Investigation",Surveillance Central
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/surveillancecentral-fast.m3u8
+#EXTINF:-1 channel-id="mjh-bordersecurityaustralia-fast" tvg-id="mjh-bordersecurityaustralia-fast" tvg-name="Border Security Australia" tvg-logo="https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png" group-title="Crime & Investigation",Border Security Australia
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/bordersecurityaustralia-fast.m3u8
+#EXTINF:-1 channel-id="mjh-10-cops" tvg-id="mjh-10-cops" tvg-name="COPS" group-title="Crime & Investigation",COPS
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-cops.m3u8
+#EXTINF:-1 channel-id="mjh-10-deadlywomen" tvg-id="mjh-10-deadlywomen" tvg-name="Deadly Women" group-title="Crime & Investigation",Deadly Women
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-deadlywomen.m3u8
+#EXTINF:-1 channel-id="mjh-10-crime-time" tvg-id="mjh-10-crime-time" tvg-name="Crime Time" group-title="Crime & Investigation",Crime Time
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-crime-time.m3u8
+#EXTINF:-1 channel-id="mjh-10-crime-hunters" tvg-id="mjh-10-crime-hunters" tvg-name="Crime Hunters" group-title="Crime & Investigation",Crime Hunters
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-crime-hunters.m3u8
+#EXTINF:-1 channel-id="mjh-10-forty-eight-hours" tvg-id="mjh-10-forty-eight-hours" tvg-name="48 Hours" group-title="Crime & Investigation",48 Hours
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-forty-eight-hours.m3u8
+#EXTINF:-1 channel-id="mjh-real-emergency-fast" tvg-id="mjh-real-emergency-fast" tvg-name="Real Emergency" group-title="Crime & Investigation",Real Emergency
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/real-emergency-fast.m3u8
+#EXTINF:-1 channel-id="mjh-medicalnrescue-fast" tvg-id="mjh-medicalnrescue-fast" tvg-name="Medical And Rescue" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="Crime & Investigation",Medical And Rescue
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
+#EXTINF:-1 channel-id="mjh-cas39-fast" tvg-id="mjh-cas39-fast" tvg-name="24 Hours in A&E" group-title="Crime & Investigation",24 Hours in A&E
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas39-fast.m3u8
+#EXTINF:-1 channel-id="mjh-cas41-fast" tvg-id="mjh-cas41-fast" tvg-name="Bondi Rescue" group-title="Crime & Investigation",Bondi Rescue
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas41-fast.m3u8
+#EXTINF:-1 channel-id="mjh-mythbusters-fast" tvg-id="mjh-mythbusters-fast" tvg-name="Mythbusters" tvg-logo="https://i.mjh.nz/.images/auto-mythbusters-fast-3a72b1.png" group-title="Science & Factual",Mythbusters
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/mythbusters-fast.m3u8
+#EXTINF:-1 channel-id="mjh-aircrashinvestigations-fast" tvg-id="mjh-aircrashinvestigations-fast" tvg-name="Air Crash Investigations" tvg-logo="https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png" group-title="Science & Factual",Air Crash Investigations
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/aircrashinvestigations-fast.m3u8
+#EXTINF:-1 channel-id="mjh-h2-fast" tvg-id="mjh-h2-fast" tvg-name="H2" group-title="History & Factual",H2
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/h2-fast.m3u8
+#EXTINF:-1 channel-id="mjh-10-historyandwarfare" tvg-id="mjh-10-historyandwarfare" tvg-name="History & Warfare" group-title="History & Factual",History & Warfare
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-historyandwarfare.m3u8
+#EXTINF:-1 channel-id="mjh-60-minutes-australia-fast" tvg-id="mjh-60-minutes-australia-fast" tvg-name="60 Minutes Australia" group-title="Documentary & Factual",60 Minutes Australia
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/60-minutes-australia-fast.m3u8
+#EXTINF:-1 channel-id="mjh-sbs-sb02" tvg-id="mjh-sbs-sb02" tvg-name="Insight" group-title="Documentary & Factual",Insight
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sbs-sb02.m3u8
+#EXTINF:-1 channel-id="mjh-sbs-sb03" tvg-id="mjh-sbs-sb03" tvg-name="Dateline" group-title="Documentary & Factual",Dateline
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sbs-sb03.m3u8
+#EXTINF:-1 channel-id="mjh-taronga-247-fast" tvg-id="mjh-taronga-247-fast" tvg-name="Taronga 24/7" group-title="Nature & Wildlife",Taronga 24/7
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/taronga-247-fast.m3u8
+#EXTINF:-1 channel-id="mjh-cas33-fast" tvg-id="mjh-cas33-fast" tvg-name="The Yorkshire Vet" tvg-logo="https://i.mjh.nz/.images/auto-cas33-fast-7aec74.png" group-title="Nature & Wildlife",The Yorkshire Vet
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas33-fast.m3u8
+#EXTINF:-1 channel-id="mjh-cas24-fast" tvg-id="mjh-cas24-fast" tvg-name="Bondi Vet" tvg-logo="https://i.mjh.nz/.images/auto-cas24-fast-b9e819.png" group-title="Nature & Wildlife",Bondi Vet
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas24-fast.m3u8
+#EXTINF:-1 channel-id="mjh-wtn-fast" tvg-id="mjh-wtn-fast" tvg-name="Wicked Tuna" tvg-logo="https://i.mjh.nz/.images/auto-wtn-fast-0a858d.png" group-title="Nature & Outdoor",Wicked Tuna
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/wtn-fast.m3u8
+#EXTINF:-1 channel-id="mjh-anglersparadise-fast" tvg-id="mjh-anglersparadise-fast" tvg-name="Anglers Paradise" tvg-logo="https://i.mjh.nz/.images/auto-anglersparadise-fast-970ebb.png" group-title="Nature & Outdoor",Anglers Paradise
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/anglersparadise-fast.m3u8
+#EXTINF:-1 channel-id="mjh-10-wildest" tvg-id="mjh-10-wildest" tvg-name="Wildest" group-title="Nature & Wildlife",Wildest
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-wildest.m3u8
+#EXTINF:-1 channel-id="mjh-travelaustralia-fast" tvg-id="mjh-travelaustralia-fast" tvg-name="Travel Australia" tvg-logo="https://i.mjh.nz/.images/auto-travelaustralia-fast-cfd556.png" group-title="Travel & Adventure",Travel Australia
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/travelaustralia-fast.m3u8
+#EXTINF:-1 channel-id="mjh-10-anthonybourdain" tvg-id="mjh-10-anthonybourdain" tvg-name="Anthony Bourdain: Parts Unknown" group-title="Travel & Adventure",Anthony Bourdain: Parts Unknown
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-anthonybourdain.m3u8
+#EXTINF:-1 channel-id="mjh-sbs-7faa" tvg-id="mjh-sbs-7faa" tvg-name="Planet Luke Nguyen" group-title="Travel & Adventure",Planet Luke Nguyen
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sbs-7faa.m3u8
+#EXTINF:-1 channel-id="mjh-etc-fast" tvg-id="mjh-etc-fast" tvg-name="Escape to the Country" tvg-logo="https://i.mjh.nz/.images/auto-etc-fast-6d4429.png" group-title="Travel & Adventure",Escape to the Country
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/etc-fast.m3u8
