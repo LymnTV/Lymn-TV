@@ -1,0 +1,93 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/Adelaide/epg.xml.gz"
+#EXTINF:-1 tvg-id="mjh-seven-ade" tvg-name="Seven" tvg-logo="https://i.mjh.nz/.images/auto-seven-ade-9608a4.png" group-title="Adelaide FTA",Seven
+https://i.mjh.nz/.r/seven-ade.m3u8
+#EXTINF:-1 tvg-id="mjh-7two-ade" tvg-name="7two" tvg-logo="https://i.mjh.nz/.images/auto-7two-ade-701123.png" group-title="Adelaide FTA",7two
+https://i.mjh.nz/.r/7two-ade.m3u8
+#EXTINF:-1 tvg-id="mjh-7mate-ade" tvg-name="7mate" tvg-logo="https://i.mjh.nz/.images/auto-7mate-ade-360d60.png" group-title="Adelaide FTA",7mate
+https://i.mjh.nz/.r/7mate-ade.m3u8
+#EXTINF:-1 tvg-id="mjh-7flix-ade" tvg-name="7flix" tvg-logo="https://i.mjh.nz/.images/auto-7flix-ade-c6badc.png" group-title="Adelaide FTA",7flix
+https://i.mjh.nz/.r/7flix-ade.m3u8
+#EXTINF:-1 tvg-id="mjh-channel-9-sa" tvg-name="Channel 9" group-title="Adelaide FTA",Channel 9
+https://i.mjh.nz/.r/channel-9-sa.m3u8
+#EXTINF:-1 tvg-id="mjh-gem-sa" tvg-name="9Gem" group-title="Adelaide FTA",9Gem
+https://i.mjh.nz/.r/gem-sa.m3u8
+#EXTINF:-1 tvg-id="mjh-go-sa" tvg-name="9Go!" group-title="Adelaide FTA",9Go!
+https://i.mjh.nz/.r/go-sa.m3u8
+#EXTINF:-1 tvg-id="mjh-life-sa" tvg-name="9Life" group-title="Adelaide FTA",9Life
+https://i.mjh.nz/.r/life-sa.m3u8
+#EXTINF:-1 tvg-id="mjh-rush-sa" tvg-name="9Rush" group-title="Adelaide FTA",9Rush
+https://i.mjh.nz/.r/rush-sa.m3u8
+#EXTINF:-1 tvg-id="mjh-abc-sa" tvg-name="ABC TV" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="Adelaide FTA",ABC TV
+https://c.mjh.nz/abc-sa.m3u8
+#EXTINF:-1 tvg-id="mjh-10-sa" tvg-name="10" group-title="Adelaide FTA",10
+https://i.mjh.nz/.r/10-sa.m3u8
+#EXTINF:-1 tvg-id="mjh-10bold-sa" tvg-name="10 Drama" group-title="Adelaide FTA",10 Drama
+https://i.mjh.nz/.r/10bold-sa.m3u8
+#EXTINF:-1 tvg-id="mjh-10peach-sa" tvg-name="10 Comedy" group-title="Adelaide FTA",10 Comedy
+https://i.mjh.nz/.r/10peach-sa.m3u8
+#EXTINF:-1 tvg-id="mjh-10shake-sa" tvg-name="Nickelodeon" group-title="Adelaide FTA",Nickelodeon
+https://i.mjh.nz/.r/10shake-sa.m3u8
+#EXTINF:-1 tvg-id="mjh-c44" tvg-name="Channel 44" tvg-logo="https://i.mjh.nz/.images/c44.png" group-title="Adelaide FTA",Channel 44
+https://i.mjh.nz/.r/c44.m3u8
+#EXTINF:-1 tvg-id="mjh-bbc-top-gear-247-fast" tvg-name="BBC Top Gear" group-title="Motoring & Machines",BBC Top Gear
+https://i.mjh.nz/.r/bbc-top-gear-247-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-outbacktruckers-fast" tvg-name="Outback Truckers" tvg-logo="https://i.mjh.nz/.images/auto-outbacktruckers-fast-332b21.png" group-title="Motoring & Machines",Outback Truckers
+https://i.mjh.nz/.r/outbacktruckers-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-truckinghell-fast" tvg-name="Trucking Hell" tvg-logo="https://i.mjh.nz/.images/auto-truckinghell-fast-6b08c1.png" group-title="Motoring & Machines",Trucking Hell
+https://i.mjh.nz/.r/truckinghell-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="Motoring & Machines",Mighty Machines
+https://i.mjh.nz/.r/mightymachines-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-10-highwaythruhell" tvg-name="Highway Thru Hell" group-title="Motoring & Machines",Highway Thru Hell
+https://i.mjh.nz/.r/10-highwaythruhell.m3u8
+#EXTINF:-1 tvg-id="mjh-racing-fast" tvg-name="Racing.com" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="Motoring & Machines",Racing.com
+https://i.mjh.nz/.r/racing-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-10-cops" tvg-name="COPS" group-title="Crime & Investigation",COPS
+https://i.mjh.nz/.r/10-cops.m3u8
+#EXTINF:-1 tvg-id="mjh-9crime-fast" tvg-name="9Crime" group-title="Crime & Investigation",9Crime
+https://i.mjh.nz/.r/9crime-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-truecrimefiles-fast" tvg-name="True Crime Files" tvg-logo="https://i.mjh.nz/.images/auto-truecrimefiles-fast-26e3bf.png" group-title="Crime & Investigation",True Crime Files
+https://i.mjh.nz/.r/truecrimefiles-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-onthecase-fast" tvg-name="On The Case" tvg-logo="https://i.mjh.nz/.images/auto-onthecase-fast-6ec172.png" group-title="Crime & Investigation",On The Case
+https://i.mjh.nz/.r/onthecase-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-surveillancecentral-fast" tvg-name="Surveillance Central" tvg-logo="https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png" group-title="Crime & Investigation",Surveillance Central
+https://i.mjh.nz/.r/surveillancecentral-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-bordersecurityaustralia-fast" tvg-name="Border Security Australia" tvg-logo="https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png" group-title="Crime & Investigation",Border Security Australia
+https://i.mjh.nz/.r/bordersecurityaustralia-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-10-deadlywomen" tvg-name="Deadly Women" group-title="Crime & Investigation",Deadly Women
+https://i.mjh.nz/.r/10-deadlywomen.m3u8
+#EXTINF:-1 tvg-id="mjh-10-crime-time" tvg-name="Crime Time" group-title="Crime & Investigation",Crime Time
+https://i.mjh.nz/.r/10-crime-time.m3u8
+#EXTINF:-1 tvg-id="mjh-10-crime-hunters" tvg-name="Crime Hunters" group-title="Crime & Investigation",Crime Hunters
+https://i.mjh.nz/.r/10-crime-hunters.m3u8
+#EXTINF:-1 tvg-id="mjh-10-forty-eight-hours" tvg-name="48 Hours" group-title="Crime & Investigation",48 Hours
+https://i.mjh.nz/.r/10-forty-eight-hours.m3u8
+#EXTINF:-1 tvg-id="mjh-real-emergency-fast" tvg-name="Real Emergency" group-title="Crime & Investigation",Real Emergency
+https://i.mjh.nz/.r/real-emergency-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-medicalnrescue-fast" tvg-name="Medical And Rescue" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="Crime & Investigation",Medical And Rescue
+https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-aircrashinvestigations-fast" tvg-name="Air Crash Investigations" tvg-logo="https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png" group-title="Documentary & Factual",Air Crash Investigations
+https://i.mjh.nz/.r/aircrashinvestigations-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-mythbusters-fast" tvg-name="Mythbusters" tvg-logo="https://i.mjh.nz/.images/auto-mythbusters-fast-3a72b1.png" group-title="Science & Factual",Mythbusters
+https://i.mjh.nz/.r/mythbusters-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-h2-fast" tvg-name="H2" group-title="History & Factual",H2
+https://i.mjh.nz/.r/h2-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-10-historyandwarfare" tvg-name="History & Warfare" group-title="History & Factual",History & Warfare
+https://i.mjh.nz/.r/10-historyandwarfare.m3u8
+#EXTINF:-1 tvg-id="mjh-60-minutes-australia-fast" tvg-name="60 Minutes Australia" group-title="Documentary & Factual",60 Minutes Australia
+https://i.mjh.nz/.r/60-minutes-australia-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-travelaustralia-fast" tvg-name="Travel Australia" tvg-logo="https://i.mjh.nz/.images/auto-travelaustralia-fast-cfd556.png" group-title="Travel & Adventure",Travel Australia
+https://i.mjh.nz/.r/travelaustralia-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-10-anthonybourdain" tvg-name="Anthony Bourdain: Parts Unknown" group-title="Travel & Adventure",Anthony Bourdain: Parts Unknown
+https://i.mjh.nz/.r/10-anthonybourdain.m3u8
+#EXTINF:-1 tvg-id="mjh-wtn-fast" tvg-name="Wicked Tuna" tvg-logo="https://i.mjh.nz/.images/auto-wtn-fast-0a858d.png" group-title="Nature & Outdoor",Wicked Tuna
+https://i.mjh.nz/.r/wtn-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-anglersparadise-fast" tvg-name="Anglers Paradise" tvg-logo="https://i.mjh.nz/.images/auto-anglersparadise-fast-970ebb.png" group-title="Nature & Outdoor",Anglers Paradise
+https://i.mjh.nz/.r/anglersparadise-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-taronga-247-fast" tvg-name="Taronga 24/7" group-title="Nature & Wildlife",Taronga 24/7
+https://i.mjh.nz/.r/taronga-247-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-cas33-fast" tvg-name="The Yorkshire Vet" tvg-logo="https://i.mjh.nz/.images/auto-cas33-fast-7aec74.png" group-title="Nature & Wildlife",The Yorkshire Vet
+https://i.mjh.nz/.r/cas33-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-cas24-fast" tvg-name="Bondi Vet" tvg-logo="https://i.mjh.nz/.images/auto-cas24-fast-b9e819.png" group-title="Nature & Wildlife",Bondi Vet
+https://i.mjh.nz/.r/cas24-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-10-wildest" tvg-name="Wildest" group-title="Nature & Wildlife",Wildest
+https://i.mjh.nz/.r/10-wildest.m3u8
